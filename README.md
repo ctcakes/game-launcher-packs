@@ -1,5 +1,5 @@
 # game-launcher-packs
-神秘Launcher的包收集仓库
+神秘Launcher的包收集仓库，仅个人收藏
 # 文件名解释
  - 游戏版本(此包对应的游戏版本)\_游戏名\_包版本
  - L：启动器
